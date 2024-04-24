@@ -1,0 +1,1 @@
+This python code is for anime plannet. A site where you can check new anime and manga. This code is for the want to watch list for you to check what anime in that list are finished broadcasting episodes. Simply install the requirements and put your username in the env file abd run the code.
