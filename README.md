@@ -5,3 +5,5 @@ Ongoing (episode number+) - Anime is broadcasting episodes and it currently on t
 Not started - No episode has been released yet.
 
 If you are getting a 404 please check if you correctly put in your username and otherwise try again later.
+
+Depending on how long the list is the code may take a while to load all the anime in the list.
